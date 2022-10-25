@@ -1,4 +1,4 @@
-let button = document.querySelector('.chage-color');
+let button = document.querySelector('.change-color');
 let color = document.querySelector('.color');
 
 button.addEventListener('click', () => {
